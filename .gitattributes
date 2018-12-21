@@ -1,0 +1,2 @@
+cc1 filter=lfs diff=lfs merge=lfs -text
+lto1 filter=lfs diff=lfs merge=lfs -text
